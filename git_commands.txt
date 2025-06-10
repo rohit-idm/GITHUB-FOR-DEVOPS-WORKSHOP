@@ -1,0 +1,6 @@
+git init
+git status
+git add testing.py
+git commit -m "Hello world" 
+rm testing.py
+git restore testing.py
