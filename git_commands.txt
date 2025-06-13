@@ -4,3 +4,19 @@ git add testing.py
 git commit -m "Hello world" 
 rm testing.py
 git restore testing.py
+
+
+
+
+   8 git remote add origin https://github.com/rohit-idm/deleterepo.git
+   9 git remote set-url origin https://github.com/rohit-idm/deleterepo.git
+  10 git push -u origin master
+  11 git remote -v
+  12 git set-url origin https://github.com/rohit-idm/GITHUB-FOR-DEVOPS-WORKSHOP.git
+  13 git remote set-url origin https://github.com/rohit-idm/GITHUB-FOR-DEVOPS-WORKSHOP.git
+  14 git push -u origin master
+  15 history
+  16 git remote set-url origin https://token@github.com/rohit-idm/GITHUB-FOR-DEVOPS-WORKSHOP.git
+  17 git push -u origin master
+  18 clear
+  19 histroy
